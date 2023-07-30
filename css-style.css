@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: nonospace;
+}
+
+.p1 {
+  font-family: arial;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.first {
+  height: 440.683px;
+  margin-top: 0px;
+  background-color: #dafffb;
+}
+.second {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.first-img {
+  max-width: 400px;
+  max-height: 400px;
+  position: relative;
+  left: 200px;
+}
+
+.second-img {
+  max-width: 400px;
+  max-height: 400px;
+  position: relative;
+  right: 200px;
+}
+.first-mountain {
+  width: 405px;
+
+  max-height: 700px;
+}
+
+.span {
+  text-decoration: underline;
+}
